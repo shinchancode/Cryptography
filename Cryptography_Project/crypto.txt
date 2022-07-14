@@ -1,0 +1,18 @@
+encoding matrix//cubegeneration or matrix of size 3*16*16
+
+104: nibble creation
+highr nibble row
+lower nibble nibble col
+intersection is val
+
+nibble val is 0-15 and size of matrix is also 0-15 rows and 0-15 cols
+
+
+lessons from paper;
+symmetric key and apply operation on evry byte armstrong no use and matrix creation but in paper complexity was ncube 
+
+in our it is encryption is o(n)
+in decryption is o(1)
+
+the val at row and col is our original data xor it and get val.
+
