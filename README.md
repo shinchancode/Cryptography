@@ -1,6 +1,8 @@
 # Cryptography
-Cryptography project : Implemented using Armstrong numbers and Colors
-
+Cryptography project : The project is based on a cryptography technique that uses Double layer encryption and decryption using Armstrong numbers and RGB color-based mappings for various types of file format. The idea is inspired from [this](https://ieeexplore.ieee.org/document/5738822) research paper. 
+#
+Various modifications, like use of mathematical formulae for increasing the time efficiency for traversal of matrices, are applied to the ideas presented in the paper
+#
 ## A java Program that enables Double layer encryption and decryption of data using Armstrong Numbers and RGB color model for various types of file format.
 
 # [CRYPTOGRAPHY](https://github.com/shinchancode/Cryptography/blob/master/Cryptography_Project/cryptographyy.png)
